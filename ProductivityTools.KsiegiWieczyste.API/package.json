@@ -1,0 +1,9 @@
+{
+  "name": "productivity-tools.ksiegi-wieczyste.api",
+  "version": "0.0.1",
+  "description": "ProductivityTools.KsiegiWieczyste.API",
+  "main": "server.js",
+  "author": {
+    "name": "Pawel Wujczyk"
+  }
+}
