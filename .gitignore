@@ -1,4 +1,4 @@
 obj/
 bin/
 v16/
-.v16/
+node_modules/
