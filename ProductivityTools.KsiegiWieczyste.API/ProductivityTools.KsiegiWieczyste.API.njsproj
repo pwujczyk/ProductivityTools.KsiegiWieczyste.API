@@ -31,6 +31,9 @@
     <Content Include="controllers\homeController.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="controllers\index.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
